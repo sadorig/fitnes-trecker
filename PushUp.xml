@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PushUps>
+    <PushUp>
+        <calories>50</calories>
+        <time>2</time>
+    </PushUp>
+    <PushUp>
+        <calories>25</calories>
+        <time>1</time>
+    </PushUp>
+    <PushUp>
+        <calories>50</calories>
+        <time>2</time>
+    </PushUp>
+    <PushUp>
+        <calories>25</calories>
+        <time>1</time>
+    </PushUp>
+</PushUps>

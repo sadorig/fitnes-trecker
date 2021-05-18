@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Jump>
+    <Jum>
+        <calories>45</calories>
+        <time>3</time>
+    </Jum>
+    <Jum>
+        <calories>90</calories>
+        <time>6</time>
+    </Jum>
+    <Jum>
+        <calories>45</calories>
+        <time>3</time>
+    </Jum>
+    <Jum>
+        <calories>50</calories>
+        <time>2</time>
+    </Jum>
+</Jump>

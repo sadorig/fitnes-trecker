@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="142.0" prefWidth="157.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+
+      <Button fx:id="btnPushups" layoutX="34.0" layoutY="14.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="89.0" text="Pushups" />
+      <Button fx:id="btnJump" layoutX="34.0" layoutY="49.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="89.0" text="Jumping-rope" />
+      <Button fx:id="btnSquats" layoutX="34.0" layoutY="83.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="89.0" text="Squats" />
+   </children>
+</Pane>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Squats>
+    <calories>0</calories>
+    <time>0</time>
+    <Squat>
+        <calories>20</calories>
+        <time>1</time>
+    </Squat>
+    <Squat>
+        <calories>40</calories>
+        <time>2</time>
+    </Squat>
+    <Squat>
+        <calories>100</calories>
+        <time>5</time>
+    </Squat>
+    <Squat>
+        <calories>100</calories>
+        <time>5</time>
+    </Squat>
+    <Squat>
+        <calories>250</calories>
+        <time>10</time>
+    </Squat>
+</Squats>
